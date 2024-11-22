@@ -1,0 +1,14 @@
+/* src/assets/styles.css */
+button {
+    background-color: #808080; /* Color de fondo gris */
+    border-radius: 15px;
+    font-weight: bold;
+    color: #fff; /* Letras blancas */
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: #696969; /* Color de fondo gris oscuro cuando se pasa el ratón */
+}
